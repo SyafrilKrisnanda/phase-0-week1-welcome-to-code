@@ -18,9 +18,11 @@
 // algoritma
 //isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
 
-let nama = "StasySteel",
-  peran = "ajsajk";
+let nama = "Staysteel",
+  peran = "Penyihir";
+nama_game = "Proxitia";
 
+console.log(`Halo ${nama},\nselamat datang di ${nama_game}\n `);
 if (nama === "") {
   console.log("nama wajib diisi");
 } else if (peran === "") {
