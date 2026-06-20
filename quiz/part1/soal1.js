@@ -18,7 +18,7 @@
 // algoritma
 //isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
 
-let nama = "Staysteel",
+var nama = "Staysteel",
   peran = "Penyihir";
 nama_game = "Proxitia";
 
